@@ -5,11 +5,8 @@ Meu nome é Sérgio Renato Capelari
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript🤡
 - Utilizo esse espçao para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
-
-- ### Voce entra em contao comigo 📧
-- 
+- ### Voce entra em contao comigo 📧  
 - 00001108268109sp@al.educacao.sp.gov.br
-- 
 - sergio_rcapelari11
 
  
