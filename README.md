@@ -1,16 +1,19 @@
-## Hi there 👋
+### Boas Vindas ao meu perfil 🐉🇧🇷
 
-<!--
-**Sergio11Capelari/Sergio11Capelari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Sérgio Renato Capelari
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript🤡
+- Utilizo esse espçao para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Voce entra em contao comigo 📧
+- 
+- 00001108268109sp@al.educacao.sp.gov.br
+- 
+- sergio_rcapelari11
+
+ 
+  ![](https://media.tenor.com/eziBXtIhXPUAAAAM/luffy-one-piece.gif)
+  ![](https://media.tenor.com/FgH_yP41T4sAAAAM/messi-and-neymar.gif)
+  ![](https://media.tenor.com/ah5hU_hmR5gAAAAM/le-bron-raymone-james-sr-le-bron-james.gif)
+  ![](https://media.tenor.com/IMwGz5PWrNoAAAAM/bleach-kenpachi.gif)
