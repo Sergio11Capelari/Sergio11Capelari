@@ -13,4 +13,4 @@ Meu nome é Sérgio Renato Capelari
   ![](https://media.tenor.com/FgH_yP41T4sAAAAM/messi-and-neymar.gif)
   ![](https://media.tenor.com/ah5hU_hmR5gAAAAM/le-bron-raymone-james-sr-le-bron-james.gif)
   ![](https://media.tenor.com/IMwGz5PWrNoAAAAM/bleach-kenpachi.gif)
-  ![.https://media.tenor.com/npkKa6Q-5CAAAAAM/luka-doncic-dallas.gif]
+  ![](https://media.tenor.com/npkKa6Q-5CAAAAAM/luka-doncic-dallas.gif)
